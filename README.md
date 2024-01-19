@@ -1,4 +1,4 @@
-                                                Machine Learning-Enabled Smart Transit: Real Time Bus Tracking System for Enhanced Urban Mobility
+   Machine Learning-Enabled Smart Transit: Real Time Bus Tracking System for Enhanced Urban Mobility
    
    
    In bustling urban cities, the efficiency of public transportation stands as a critical factor in alleviating traffic congestion and enhancing the daily commuter experience. This project introduces a state-of-the art Bus Tracking System that is meticulously designed to empower passengers by providing real-time updates on bus locations, availability, and estimated arrival and departure times. By leveraging cutting-edge 
